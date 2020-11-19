@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#container{
+    height: 1607px;
+    width: 1144px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    width: 1144px;
+    height: 8px;
+    float: left;
+    background-image: url("../img/barralinea.jpg");
+    margin-top: 0px;
+    background-color: #F49819;
+}
+#nav{
+    width: 1144px;
+    height: 120px;
+    margin-top: -8px;
+    background-color: #FFFFFF;
+}
+#logo{
+    margin-top: -64px;
+    margin-left: 35px;
+}
+#nav ul{
+    list-style-type: none;
+}
+#nav ul li{
+    display: inline-block;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 47px;
+    margin-left: 410px;
+    margin-right: -410px;
+    margin-bottom: 0px;
+}
+#nav ul li a{
+    text-decoration: none;
+    background-color: #F49819;
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    font-size: 15px;
+    padding-top: 55px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 45px;
+    border-radius: 0px;
+}
+#nav ul li a:hover{
+    background-color: #9D4D1D;
+}
+#footer{
+    float: left;
+    width: 1144px;
+    height: 257px;
+    margin-top: 32px;
+    background-color: #F49819;
+}
+#article{
+    float: left;
+    width: 1144px;
+    height: 1215px;
+    margin-top: 5px;
+    background-color: #EFE59;
+    color: #FDFDFD;
+    text-decoration: none;
+}
+#h1{
+    color: #272626;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    text-align: center;
+    margin-top: 11px;
+}
+#saludo{
+    color: #272626;
+    text-align: center;
+    margin-left: 163px;
+    margin-right: 163px;
+}
+#entradas{
+    width: 350px;
+    height: 293px;
+    background-color: #FFFFFF;
+    margin-left: 22px;
+    margin-top: 52px;
+}
+#img-entradas{
+    width: 350px;
+    height: 293px;
+    background-image: url("../img/thumb_criollos.jpg");
+}
+#titulo-entradas{
+    color: #4D4B4B;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    font-style: normal;
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 12px;
+}
+#comentario{
+    color: #5E5757;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    margin-left: 13px;
+    margin-right: 12px;
+    text-align: center;
+}
+#criollas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 396px;
+    margin-top: -292px;
+}
+#img-criollas{
+    background-image: url("../img/thumb_entradas.jpg");
+    width: 350px;
+    height: 293px;
+}
+#titulo-criollas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: #4D4B4B;
+    font-size: 20pt;
+    font-weight: normal;
+    margin-top: 12px;
+    text-align: center;
+}
+#pastas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 772px;
+    margin-top: -566px;
+}
+#img-pastas{
+    background-image: url("../img/thumb_pastas.jpg");
+    width: 350px;
+    height: 293px;
+}
+#titulo-pastas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: #4D4B4B;
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 12px;
+}
+#pie{
+    width: 1144px;
+    height: 255px;
+    margin-top: -420px;
+}
+#mapa{
+    width: 350px;
+    height: 200px;
+    margin-left: 470px;
+    color: #FFFFFF;
+}
+#elementos_sitio{
+    width: 350px;
+    height: 113px;
+    margin-left: 470px;
+    margin-top: 28px;
+    color: #FFFFFF;
+}
+#datos{
+    width: 350px;
+    height: 200px;
+    margin-left: 967px;
+    margin-top: -169px;
+    color: #FFFFFF;
+}
+#direccion{
+    width: 350px;
+    height: 100px;
+    margin-left: 967px;
+    margin-top: -140px;
+    color: #FFFFFF;
+}
+#copyright{
+    width: 1144px;
+    text-align: center;
+    background-color: #6E3A16;
+    color: #FFFFFF;
+    padding-bottom: 43px;
+    margin-top: 156px;
+    height: 0px;
+    margin-left: 380px;
+}
